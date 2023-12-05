@@ -7,3 +7,7 @@ editor: visual
 Q: What was the last movie you watched in the theater?
 
 A: The movie: Spider-man: Across the Spider-Verse
+
+Q: What did you eat for lunch today?
+
+A: Chicken.
