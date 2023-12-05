@@ -1,0 +1,9 @@
+---
+title: "new_repo_quarto"
+format: html
+editor: visual
+---
+
+Q: What was the last movie you watched in the theater?
+
+A: The movie: Spider-man: Across the Spider-Verse
